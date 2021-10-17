@@ -1,9 +1,21 @@
-Template for the Read the Docs tutorial
-=======================================
+Line Following Robot
+====================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+An open-source beginner-friendly tutorial on building a line following robot with Arduino. 
 
-Read the tutorial here:
+Tutorial
+--------
+Hardware build instructions and software documentation here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://line-following-robot.willdonaldson.io/
+
+Purchase
+--------
+
+Assembled, all in one, line following robot kits available for purchase here:
+
+<insert link>
+
+License
+-------
+This project is licensed under the terms of the MIT license
