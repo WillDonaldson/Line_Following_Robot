@@ -20,10 +20,10 @@ License
 -------
 This project is licensed under the terms of the MIT license
 
-.. image:: https://raw.github.com/WillDonaldson/Line_Following_Robot/main/Media/IMG_4196.png
+.. image:: https://raw.githubusercontent.com/WillDonaldson/Line_Following_Robot/main/Media/IMG_4196.png
   :width: 600
   :alt: Portrait of line following robot
 
-.. image:: https://raw.github.com/WillDonaldson/Line_Following_Robot/main/Media/IMG_4120.png
+.. image:: https://raw.githubusercontent.com/WillDonaldson/Line_Following_Robot/main/Media/IMG_4120.png
   :width: 600
   :alt: Birdseye view of line following robot following curved race track
