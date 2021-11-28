@@ -81,7 +81,7 @@ Attach the motors using M3 bolts and the caster wheel using M4 bolts. Note the 3
    :alt: Install wheels on the robot frame
 
 **Step 4**
-Install the infrared sensor array using the 3D printed standoffs. 
+Install the infrared sensor array using the 3D printed standoffs. Note the orientation of the header pins, they should face towards the front of the robot, if not they will collide with the caster wheel and make wiring more difficult.
 
 .. image:: ../images/hardware/assembly_step_4.png
    :width: 600
