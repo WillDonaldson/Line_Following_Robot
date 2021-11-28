@@ -1,5 +1,5 @@
-Sensors and Actuators
-=====================
+Electrical
+==========
 
 .. note::
 

@@ -1,4 +1,6 @@
 Bang-Bang Algorithm
 ===================
 
-pew-pew, but more aggressive
+.. note::
+
+   This project is under active development. More updates coming soon.
